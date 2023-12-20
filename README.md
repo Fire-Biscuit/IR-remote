@@ -8,4 +8,6 @@ IR led (ky-005) is in pin 10 on the arduino
 
 <video src="Video.mp4" controls title="Title"></video>
 
+https://www.youtube.com/shorts/iWTAwHRrKyk 
+
 the IR codes that are transmitted were found by reading the beacon's original remote's transmission codes with the BeaconRemoteCodeReader arduino file with a ky-022
